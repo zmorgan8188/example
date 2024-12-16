@@ -1,0 +1,9 @@
+﻿body
+{margin: 10 px; background-color:white
+}
+.HeaderColumnLeft {background-image:url(hbw.PNG);
+    background-repeat: no-repeat;
+    float: left;
+    width: 40%;
+    height: 22vh
+}
